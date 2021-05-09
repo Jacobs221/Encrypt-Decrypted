@@ -1,0 +1,13 @@
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\bin\Debug\netcoreapp3.1\EncryptingProject.exe
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\bin\Debug\netcoreapp3.1\EncryptingProject.deps.json
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\bin\Debug\netcoreapp3.1\EncryptingProject.runtimeconfig.json
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\bin\Debug\netcoreapp3.1\EncryptingProject.runtimeconfig.dev.json
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\bin\Debug\netcoreapp3.1\EncryptingProject.dll
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\bin\Debug\netcoreapp3.1\EncryptingProject.pdb
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\obj\Debug\netcoreapp3.1\EncryptingProject.csprojAssemblyReference.cache
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\obj\Debug\netcoreapp3.1\EncryptingProject.AssemblyInfoInputs.cache
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\obj\Debug\netcoreapp3.1\EncryptingProject.AssemblyInfo.cs
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\obj\Debug\netcoreapp3.1\EncryptingProject.csproj.CoreCompileInputs.cache
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\obj\Debug\netcoreapp3.1\EncryptingProject.dll
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\obj\Debug\netcoreapp3.1\EncryptingProject.pdb
+C:\Users\JMashilwane\source\repos\EncryptingProject\EncryptingProject\obj\Debug\netcoreapp3.1\EncryptingProject.genruntimeconfig.cache
